@@ -1,0 +1,12 @@
+File list:
+--
+muxbrFunc.r
+	Library of utility functions for analysis
+
+muxbrOfflineCalibrate.r
+	Script to compute calibration for flow cells using OD standards
+
+muxbrRuntimeCalibrate.r
+	Script to compute calibration for flow cells during a measurement run.
+	Not recommended for regular use.  When possible, pre calibrate the system.
+
